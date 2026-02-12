@@ -62,16 +62,8 @@ User Interface
 - Responsive design for all screen sizes
 - Clean, professional purple gradient theme
 
-Installation
 
-Prerequisites
 
-- Node.js 18 or higher
-- MongoDB Atlas account (free tier)
-- Redis (local installation or Redis Cloud)
 
-Backend Setup
 
-1. Navigate to the backend directory:
-   ```bash
-   cd backend
+ 
